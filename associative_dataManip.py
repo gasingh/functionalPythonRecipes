@@ -33,6 +33,8 @@ list(compress(list_a, fil))
 ASSOCIATIVE SORT
 
 https://stackoverflow.com/questions/54651371/sorting-2-lists-that-are-related-using-zip-function-in-python-how-to-sort-in-de/54651441
+https://codereview.stackexchange.com/questions/138702/sorting-two-lists
+# there was a nice page i once found on stackoverflow: retrieve it from your code repo... and add it here.
 """
 
 numLst_sorted, stuffLst_sorted = zip(*sorted(zip(numLst,stuffLst)))

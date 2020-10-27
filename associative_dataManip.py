@@ -25,7 +25,7 @@ from itertools import compress
 
 list_a = [1, 2, 4, 6]
 fil = [True, False, True, False]
-list(compress(list_a, fil)
+list(compress(list_a, fil))
 
 
 #_____________________________________________________________________________________ 02
